@@ -1,12 +1,9 @@
 package main
 
 import (
-	//"fmt"
 	"context"
 	"fmt"
 	"time"
-
-	//"math/rand"
 	"sync"
 
 	"github.com/go-redis/redis/v8"
